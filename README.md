@@ -8,4 +8,4 @@ Hướng dẫn cài đặt:
   npm i
   npm start
 
-- Mockapi là 1 giả lập API nằm trên internet , nên máy tính có kết nối mạng. Vì nằm trên internet nên lâu lâu sẽ bảo trì.
+- Mockapi là 1 giả lập API nằm trên internet , nên máy tính cần có kết nối mạng. Vì nằm trên internet nên lâu lâu sẽ bảo trì.
